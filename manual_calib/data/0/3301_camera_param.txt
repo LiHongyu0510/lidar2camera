@@ -1,0 +1,145 @@
+
+Read EEPROM of Sensor 0
+ShowEEPROM 665， sensor name:IMX390C
+Performing example EEPROM register access
+Reading 512 byte(s) at 0x0
+**********coffes for camera 0**************        surrounding_front
+intrinsics {
+  distort_coeffs {
+    sensor id: 30
+    k1: 0.0924003
+    k2: -0.00755261
+    k3: -0.0104587
+    k4: 0.00224286
+    k5: \
+    k6: \
+    p1: \
+    p2: \
+  }
+  camera_matrix {
+    fx: 516.373
+    fy: 516.226
+    cx: 960.592
+    cy: 541.35
+  }
+  crc: a18354cd
+  serial_no: "H190XA-I03130719"
+**********coffes end**************
+
+
+
+
+Read EEPROM of Sensor 1
+ShowEEPROM 665， sensor name:IMX390C
+Performing example EEPROM register access
+Reading 512 byte(s) at 0x0
+**********coffes for camera 1**************          surrounding_right
+intrinsics {
+  distort_coeffs {
+    sensor id: 30
+    k1: 0.0917985
+    k2: -0.00480466
+    k3: -0.0125021
+    k4: 0.00276243
+    k5: \
+    k6: \
+    p1: \
+    p2: \
+  }
+  camera_matrix {
+    fx: 516.454
+    fy: 516.465
+    cx: 961.473
+    cy: 538.826
+  }
+  crc: 9bf7900d
+  serial_no: "H190XA-I03130758"
+**********coffes end**************
+
+
+
+
+Read EEPROM of Sensor 2
+ShowEEPROM 665， sensor name:IMX390C
+Performing example EEPROM register access
+Reading 512 byte(s) at 0x0
+**********coffes for camera 2**************            surrounding_back
+intrinsics {
+  distort_coeffs {
+    sensor id: 30
+    k1: 0.0927333
+    k2: -0.00682595
+    k3: -0.0104358
+    k4: 0.00217482
+    k5: \
+    k6: \
+    p1: \
+    p2: \
+  }
+  camera_matrix {
+    fx: 517.026
+    fy: 516.825
+    cx: 959.29
+    cy: 539.176
+  }
+  crc: ed55a62a
+  serial_no: "H190XA-I03130729"
+**********coffes end**************
+
+
+
+Read EEPROM of Sensor 3
+ShowEEPROM 665， sensor name:IMX390C
+Performing example EEPROM register access
+Reading 512 byte(s) at 0x0
+**********coffes for camera 3**************                 surrounding_left
+intrinsics {
+  distort_coeffs {
+    sensor id: 30
+    k1: 0.093304
+    k2: -0.00712
+    k3: -0.0110428
+    k4: 0.00244216
+    k5: \
+    k6: \
+    p1: \
+    p2: \
+  }
+  camera_matrix {
+    fx: 516.482
+    fy: 516.636
+    cx: 957.765
+    cy: 536.685
+  }
+  crc: 65e0b045
+  serial_no: "H190XA-I03130842"
+**********coffes end**************
+
+
+
+
+
+Read EEPROM of Sensor 8
+ShowEEPROM 665， sensor name:ISX031
+**********coffes for camera 8**************          center_front
+intrinsics {
+  distort_coeffs {
+    sensor id: 33
+    k1: 61.5706
+    k2: 112.144
+    k3: 10.1137
+    k4: 62.1443
+    k5: 145.841
+    k6: 69.2261
+    p1: -0.000232253
+    p2: -0.0005242
+  }
+  camera_matrix {
+    fx: 1946.85
+    fy: 1946.29
+    cx: 962.744
+    cy: 770.444
+  }
+  crc: 2d14648d
+  serial_no: "H60FA-H08282081"
+**********coffes end**************

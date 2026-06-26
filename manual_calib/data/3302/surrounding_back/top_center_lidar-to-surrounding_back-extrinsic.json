@@ -1,0 +1,43 @@
+{
+    "top_center_lidar-to-surrounding_back-extrinsic": {
+        "sensor_name": "top_center_lidar",
+        "target_sensor_name": "surrounding_back",
+        "device_type": "relational",
+        "param_type": "extrinsic",
+        "param": {
+            "time_lag": 0,
+            "sensor_calib": {
+                "rows": 4,
+                "cols": 4,
+                "type": 6,
+                "continuous": true,
+                "data": [
+                    [
+                        -0.99171357,
+                        -0.00708432,
+                        0.12827316,
+                        -0.03477879
+                    ],
+                    [
+                        -0.11782555,
+                        0.44808286,
+                        -0.88619348,
+                        0.12701739
+                    ],
+                    [
+                        -0.05119892,
+                        -0.89396397,
+                        -0.44520456,
+                        -0.75288862
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            }
+        }
+    }
+}

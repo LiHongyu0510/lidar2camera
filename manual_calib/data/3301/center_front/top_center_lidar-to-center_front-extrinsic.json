@@ -1,0 +1,43 @@
+{
+    "top_center_lidar-to-center_front-extrinsic": {
+        "sensor_name": "top_center_lidar",
+        "target_sensor_name": "center_front",
+        "device_type": "relational",
+        "param_type": "extrinsic",
+        "param": {
+            "time_lag": 0,
+            "sensor_calib": {
+                "rows": 4,
+                "cols": 4,
+                "type": 6,
+                "continuous": true,
+                "data": [
+                    [
+                        0.98759213,
+                        -0.00346293,
+                        -0.15700250,
+                        0.04063332
+                    ],
+                    [
+                        -0.15702499,
+                        -0.00763935,
+                        -0.98756508,
+                        -0.12570024
+                    ],
+                    [
+                        0.00222047,
+                        0.99996482,
+                        -0.00808832,
+                        -0.87498836
+                    ],
+                    [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            }
+        }
+    }
+}

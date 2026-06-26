@@ -1,0 +1,49 @@
+{
+    "surrounding_left-intrinsic": {
+        "sensor_name": "surrounding_left",
+        "target_sensor_name": "surrounding_left",
+        "device_type": "camera",
+        "param_type": "intrinsic",
+        "param": {
+            "img_dist_w": 1920,
+            "img_dist_h": 1080,
+            "cam_K": {
+                "rows": 3,
+                "cols": 3,
+                "type": 6,
+                "continuous": true,
+                "data": [
+                    [
+                        515.303,
+                        0,
+                        962.177
+                    ],
+                    [
+                        0,
+                        515.152,
+                        540.391
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "cam_dist": {
+                "rows": 1,
+                "cols": 4,
+                "type": 6,
+                "continuous": true,
+                "data": [
+                    [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                ]
+            }
+        }
+    }
+}

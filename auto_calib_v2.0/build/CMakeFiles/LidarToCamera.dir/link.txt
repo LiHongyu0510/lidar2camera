@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lihongyu/Unicalib/SensorsCalibration/lidar2camera/auto_calib_v2.0/lib/libLidarToCamera.a CMakeFiles/LidarToCamera.dir/src/calibration.cpp.o CMakeFiles/LidarToCamera.dir/src/run_lidar2camera.cpp.o
+/usr/bin/ranlib /home/lihongyu/Unicalib/SensorsCalibration/lidar2camera/auto_calib_v2.0/lib/libLidarToCamera.a
